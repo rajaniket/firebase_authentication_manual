@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180805020372",
+    "project_id": "signin-ccfc8",
+    "storage_bucket": "signin-ccfc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180805020372:android:31359040cbc857cee0a941",
+        "android_client_info": {
+          "package_name": "com.example.firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180805020372-77j2j50je278t039a71nvos3hr5aj72t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrQdrdBk_WHfNQa9rS4NZ_XUyTq--Oc_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180805020372-77j2j50je278t039a71nvos3hr5aj72t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
